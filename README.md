@@ -9,7 +9,7 @@ cross-checked against the Basel standard.
 
 | Step | Component | Status |
 |---|---|---|
-| 1 | Conventions, 19-bucket grid, position slotting | planned |
+| 1 | Conventions, 19-bucket grid, position slotting | planned (ongoing) |
 | 2 | OIS curve at bucket midpoints, six Basel shocks | planned |
 | 3 | ΔEVE engine (contractual view), PV01 cross-check | planned |
 | 4 | ΔNII engine (12M / 24M horizons) | planned |
